@@ -1,0 +1,6 @@
+{
+  "name": "Shoppers Heaven",
+  "description": "Premium E-commerce Landing Page for Shoppers Heaven",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
